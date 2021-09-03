@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mayankkuamr001
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on working with you.
+- 💞️ I’m looking to collaborate on making awesome projects. 
 
 
 <!---
