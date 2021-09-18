@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayankkuamr001
-- 👀 I’m interested in coding.
+- 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on making awesome projects. 
 - 🎯 My skill set includes Java, Python, Web development, SQL...
