@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mayankkuamr001
+<h1>Namaste🙏! I am Mayank Kumar Gupta </h1>
+- 🧑 Beginner in Open-Source and DevOps.
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on making awesome projects. 
