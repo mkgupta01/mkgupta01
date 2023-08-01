@@ -6,7 +6,17 @@
 - 💞️ I’m looking to collaborate on making awesome projects. 
 - 🎯 My skill set includes Java, React, Tailwind, Python, C++, Web development, SQL...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkgupta01&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkgupta01&show_icons=true&theme=dark)](https://github.com/mkgupta01/github-readme-stats)
+
+<div align="center">
+  <a href='https://www.linkedin.com/in/mkgupta001/'>
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' >
+   </a>
+  <a href='https://twitter.com/imayankgupta001'>
+    <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'>
+  </a>
+</div>
+<br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
